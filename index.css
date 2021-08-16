@@ -39,3 +39,32 @@ body {
 .name {
     color: #fff;
 }
+
+.contents {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.picture {
+    text-align: center;
+    margin: 100px auto;
+}
+
+.works h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.work {
+    display: flex;
+}
+
+.work-right h3 {
+    margin:0px 50px;
+    font-size: 35px;
+}
+
+.work-right p {
+    margin:50px 50px;
+}
