@@ -68,3 +68,16 @@ body {
 .work-right p {
     margin:50px 50px;
 }
+
+.footer {
+    background-color: #fdfdfd;
+}
+
+.footer .contact {
+    text-align: center;
+}
+
+.footer .contact h2 {
+    font-size: 50px;
+    margin-bottom: 70px;
+}
